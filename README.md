@@ -8,3 +8,4 @@
 
 ## Usage
 - Github repo is viewable here: https://github.com/aidanrich/homework1
+- Site is viewable at: https://aidanrich.github.io/homework1/
